@@ -1,0 +1,145 @@
+/*Base CSS Starts*/
+ul{ 
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.wrapper{
+    padding: 9px 10px;
+}
+/*Base CSS Ends*/
+/*Header Area Starts*/
+.headerContainer {
+    background-color: #00728b;
+    height: 48px;
+    margin-bottom: 20px;
+}
+.proshno{
+    background: url('img/SpriteImage.png') no-repeat -144px -1722px;         padding-bottom: 20px;
+    padding-left: 66px;
+    width: 51px;
+}
+.proshnoButton{
+    background: url('img/SpriteImage.png') no-repeat -86px -2092px;
+padding-bottom: 13px;
+    padding-left: 83px;
+}
+.proshnoIcon{
+    text-align: center;
+}
+.proshnoButtonIcon{
+    text-align: right;
+}
+.closeIcon a i{
+    font-size: 24px;
+    color: #fff;   
+}
+/*Header Area Ends*/
+/*Feed Area Starts*/
+.formAreaAsk {
+    color: #8a8a89;
+    height: 35px;
+    margin-bottom: 16px;
+    padding-left: 3px;
+    width: 100%;
+    border-radius: 0;
+    border: 1px solid #dddddd;
+    background: #fff;
+}
+.proshnoCol, .formAreaAsk{
+    float: right;
+}
+.proshnoInputArea{
+    border-radius: 0;
+    border: 1px solid #dddddd;
+    width: 100%;
+    color: #000;
+    height: 80px;
+    margin-bottom: 16px;
+    padding: 5px;
+    background: #f8f8f8;
+}
+textarea {
+  resize: none;
+}
+.option{
+    border-radius: 0;
+    color: #505050;
+    font-weight: 600;
+    background: #f3f3f3;
+    width: 100%;
+    line-height: 50px;
+    padding-left: 10px;
+    font-size: 16px;
+    border: 1px solid #f3f3f3;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+input:hover{
+    background: #fdd459;
+    color: #fff;
+}
+.aroProshno{
+    margin-bottom: 70px;
+}
+.aroProshno a{
+    color: #505050;
+    font-size: 18px;
+}
+.aroProshno a span{
+    padding-left: 5px;
+}
+.proshnoUttorButton{
+    background: #e9e9e9;
+    border: 1px solid #d9d9d9;
+    height: 48px;
+    margin-bottom: 30px;
+}
+.Language span{
+    border-radius: 50%;
+    background: #9aada9;
+    color: #fff;
+    font-size: 20px;
+    padding: 0 6px;
+}
+
+/*Feed Area Ends*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
